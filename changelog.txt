@@ -19,7 +19,7 @@ Removed
 +++++++
 
  - The ``Project.config`` property is no longer mutable. Use the command line ``$ signac config`` to modify configuration (#608, #246, #244).
- - The ``Collection`` class has been removed.
+ - The ``Collection`` class has been removed (#664, #667, #683).
 
 Version 1
 =========
